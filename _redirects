@@ -1,0 +1,10 @@
+/ https://vt.tokopedia.com/t/ZS9jjovtD4XvQ-HFj6T/ 302
+/d/* https://vt.tokopedia.com/t/ZS9Mh4pWBtAvr-HOIdK/ 302
+/e/* https://vt.tokopedia.com/t/ZS9Mh4nEEyuwV-aANZk/ 302
+/f/* https://vt.tokopedia.com/t/ZS9jjoX8nWLdW-CEnDV/ 302
+/s/* https://vt.tokopedia.com/t/ZS9jjogfvPcgF-OKShC/ 302
+# Force HTTP to HTTPS
+http://vdqup.de/* https://vdqup.de/:splat 301!
+
+# Optional: Redirect www to non-www
+www.vdqup.de/* https://vdqup.de/:splat 301!
